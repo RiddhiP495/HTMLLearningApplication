@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Group12Android</string>
+    <string name="save_notes">SAVE NOTES</string>
+    <string name="textview">TextView</string>
+    <string name="take_notes">Take NOTES:</string>
+    <string name="mark_complete">MARK COMPLETE</string>
+    <string name="watch_lesson">WATCH LESSON</string>
+</resources>
